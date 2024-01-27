@@ -1,0 +1,3 @@
+/home/hero/Desktop/MyFiles/build/CMakeFiles/hello_muhannad.dir
+/home/hero/Desktop/MyFiles/build/CMakeFiles/edit_cache.dir
+/home/hero/Desktop/MyFiles/build/CMakeFiles/rebuild_cache.dir

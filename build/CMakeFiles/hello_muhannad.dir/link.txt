@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/hello_muhannad.dir/hello.cpp.o -o hello_muhannad 
